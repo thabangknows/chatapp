@@ -1,0 +1,16 @@
+body {
+    background-image: url(./polygon-scatter-haikei.svg);
+    background-size: cover;
+}
+
+
+.chat {
+    background-color: #f6f6f6;
+    width: min-content;
+    padding: 1rem;
+    border-radius: 1rem;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    cursor: pointer;
+}
