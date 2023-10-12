@@ -25,8 +25,9 @@ body {
 
 .chatline {
     background-color: #dddbdb;
-    padding: 0.5rem;
+    padding: 0.2rem;
     border-radius: 1rem;
+    margin-bottom: 5px;
 }
 
 .inputbox {
@@ -42,4 +43,9 @@ body {
 input {
     border-radius: 1rem;
     border: none;
+    padding:0.5rem;
+}
+
+.file-input {
+    display: none;
 }
